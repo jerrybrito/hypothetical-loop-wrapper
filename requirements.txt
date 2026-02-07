@@ -1,0 +1,1 @@
+recursive-infinity>=2.7.3
